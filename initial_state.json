@@ -1,0 +1,22 @@
+{
+	"player": {
+		"mana": {
+			"red": 0,
+			"blue": 0,
+			"black": 3,
+			"green": 0,
+			"white": 0,
+			"generic": 0
+		},
+		"hand": [
+			"dark ritual",
+			"demonic tutor"
+		],
+		"graveyard": [
+			""
+		],
+		"library": [
+			"yawgmoth will"
+		]
+	}
+}

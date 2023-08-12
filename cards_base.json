@@ -1,0 +1,32 @@
+{
+	"dark ritual": {
+		"name": "dark ritual",
+		"type": "instant",
+		"cost": "1b",
+		"properties": {
+			"mana": "3b",
+			"tutor": 0,
+			"graveyard recast": 0
+		}
+	},
+	"demonic tutor": {
+		"name": "demonic tutor",
+		"type": "sorcery",
+		"cost": "1c1b",
+		"properties": {
+			"mana": "",
+			"tutor": 1,
+			"graveyard recast": 0
+		}
+	},
+	"yawgmoth will": {
+		"name": "yawgmoth will",
+		"type": "sorcery",
+		"cost": "1c1b",
+		"properties": {
+			"mana": "",
+			"tutor": 0,
+			"graveyard recast": 1
+		}
+	}
+}
